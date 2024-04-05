@@ -2,7 +2,7 @@
 
 This notebook implements a collaborative filtering-based recommendation system for book recommendations. It analyzes user-item interactions to suggest books that users might be interested in, thus enhancing personalized user experiences in the domain of book recommendation.
 
-## Kaggle Notebook Link
+## 🚀 Kaggle Notebook Link
 [Kaggle Notebook Link]([https://www.kaggle.com/your_username/your_notebook](https://www.kaggle.com/code/shikhararyan/recommendation-system-collaborative-filtering))
 
 ## Dataset Overview
