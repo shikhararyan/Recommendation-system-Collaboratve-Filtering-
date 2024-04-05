@@ -1,9 +1,6 @@
 # Collaborative Filtering based Recommendation System
 
-This notebook implements a collaborative filtering-based recommendation system for book recommendations. It analyzes user-item interactions to suggest books that users might be interested in, thus enhancing personalized user experiences in the domain of book recommendation.
-
-## 🚀 Kaggle Notebook Link
-[Kaggle Notebook Link]([https://www.kaggle.com/your_username/your_notebook](https://www.kaggle.com/code/shikhararyan/recommendation-system-collaborative-filtering))
+📚 This notebook implements a collaborative filtering-based recommendation system for book recommendations. It analyzes user-item interactions to suggest books that users might be interested in, thus enhancing personalized user experiences in the domain of book recommendation.
 
 ## Dataset Overview
 
@@ -42,8 +39,3 @@ The notebook requires the following dependencies:
 - NumPy
 - pandas
 - scikit-learn
-
-Install these dependencies using the following command:
-
-```bash
-pip install numpy pandas scikit-learn
